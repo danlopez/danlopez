@@ -1,0 +1,45 @@
+baseURL = "https://danlopez.dev"
+languageCode = "en-us"
+title = "danlopez.dev"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about-me"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 40
+
+[permalinks]
+  posts = "/:title/"
+
+[outputs]
+  home = [ "RSS", "HTML"]
+  section  = ["HTML"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+
