@@ -20,7 +20,7 @@ jobs:
     steps:
 
     - name: Cleanup previous run
-        run: |
+      run: |
           echo "Cleaning up previous run"
           rm -rf "${{ github.workspace }}"
     # Step 1 - Checks-out your repository under $GITHUB_WORKSPACE
