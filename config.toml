@@ -1,6 +1,6 @@
-baseURL = "https://danlopez.dev"
+baseURL = "https://danlopez.sh"
 languageCode = "en-us"
-title = "danlopez.dev"
+title = "danlopez.sh"
 
 [menu]
   [[menu.main]]
@@ -8,12 +8,6 @@ title = "danlopez.dev"
     name = "Home"
     url = "/"
     weight = 10
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog"
-    weight = 20
 
   [[menu.main]]
     identifier = "about"
@@ -42,4 +36,7 @@ title = "danlopez.dev"
 [markup]
   [markup.highlight]
     style = "monokailight"
+[markup.goldmark.renderer]
+    unsafe= true
+
 
