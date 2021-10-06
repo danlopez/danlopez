@@ -43,8 +43,3 @@ jobs:
     
     - name: Copy to site directory
       run: rsync -a public/* /home/pi/site
-
-    - name: Cleanup run
-      run: |
-          echo "Cleaning up previous run"
-          rm -rf "${{ github.workspace }}"
