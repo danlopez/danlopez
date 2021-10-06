@@ -21,6 +21,12 @@ title = "danlopez.sh"
     url = "/contact"
     weight = 40
 
+  [[menu.main]]
+    identifier = "my-work"
+    name = "My Work"
+    url = "/my-work"
+    weight = 40
+
 [permalinks]
   posts = "/:title/"
 
