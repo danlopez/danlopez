@@ -1,6 +1,6 @@
-baseURL = "http://192.168.1.175"
+baseURL = "https://danlopez.fyi"
 languageCode = "en-us"
-title = "danlopez.sh"
+title = "danlopez.fyi"
 
 [menu]
   [[menu.main]]

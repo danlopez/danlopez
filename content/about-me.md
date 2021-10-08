@@ -14,7 +14,7 @@ I've spent the last ~12 years living in Philadelphia, PA. When I'm not working, 
 #### Director of Software Engineering
 *City of Philadelphia, 2019 - present*
 
-I've spent the past two+ years working in local government as the City of Philadelphia's Director of Software Engineering. During that time, I've focused on how to bring **cloud-native**, agile practices to City technologies. I've grown my team threefold and successfully delivered on a number of major projects and initiatives, ranging from launching http://leadcertification.phila.gov, developing a resident-facing single sign on platform, migrating all of my team's applications into our cloud environments and much more. 
+I've spent the past two+ years working in local government as the City of Philadelphia's Director of Software Engineering. During that time, I've focused on how to bring **cloud-native**, agile practices to City technologies. I've grown my team threefold and successfully delivered on a number of major projects and initiatives, ranging from launching [The Lead and Healhty Homes Site](https://leadcertification.phila.gov), developing a resident-facing single sign on platform, migrating all of my team's applications into our cloud environments and much more. 
 
 I'm incredibly proud of my team's work on **equity and access**. Since I've joined, we've written citywide policies for web accessibility, made language access (and native translations) a core component of phila.gov and a variety of other applications and more. On top of that, I've worked with my colleague Sara Hall to build an internal apprenticeship program to improve diversity within our technology positions. 
 
