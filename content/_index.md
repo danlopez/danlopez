@@ -1,9 +1,9 @@
 ---
-title: "./danlopez"
-description: "Engineering Leader, Civic Technologist, Startups and DevOps"
+title: "Hi, I'm Dan Lopez"
+description: "Engineering, Leader, DevOps"
 date: 2021-01-20T21:05:38+01:00
 ---
-### Hi, I'm Dan Lopez! 
+### Building resilient systems & great products
 
 I've spent the past 10 years leading engineering teams at startups and in the public sector. When I'm writing code, it's usually infrastructure - reusable terraform modules, CI / CD pipelines, and other things that can help my teams ship product faster. 
 

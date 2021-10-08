@@ -2,7 +2,7 @@
 title: "About"
 description: "Learn about me and my work"
 ---
-<img src="/img/dan.png" align="left" hspace="10" /> 
+<!-- <img src="/img/dan.png" align="left" hspace="10" />  -->
 
 I've spent the past 10 years leading engineering teams at startups and in the public sector. When I'm writing code, it's usually infrastructure - reusable terraform modules, CI / CD pipelines, and other things that can help my teams ship product faster. 
 
