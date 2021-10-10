@@ -35,7 +35,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-        cname: danlopez.fyi
+        cname: www.danlopez.fyi
     
     # Uncomment out if we ever use raspberry pi again
     # - name: Clean public directory
