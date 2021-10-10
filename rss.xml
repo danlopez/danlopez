@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I&#39;m Dan Lopez on danlopez.fyi</title>
+    <link>https://danlopez.fyi/rss.xml</link>
+    <description>Recent content in Hi, I&#39;m Dan Lopez on danlopez.fyi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 21:05:38 +0100</lastBuildDate><atom:link href="https://danlopez.fyi/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About this site</title>
+      <link>https://danlopez.fyi/blog/this-site/</link>
+      <pubDate>Tue, 05 Oct 2021 20:50:24 -0400</pubDate>
+      
+      <guid>https://danlopez.fyi/blog/this-site/</guid>
+      <description>This site exists because I happened to have an extra raspberry pi sitting around that I wasn&amp;rsquo;t using and thought it would be fun to host a super lightweight, performant site using it on my home ISP. However&amp;hellip; I learned that doing so violates the terms of service for my internet connection. Considering that I rely on my home internet to actually work, this seemed like a non-starter. A quick google didn&amp;rsquo;t reveal any clear reason why this is the case, but I&amp;rsquo;m assuming it&amp;rsquo;s a legal liability thing.</description>
+    </item>
+    
+  </channel>
+</rss>
