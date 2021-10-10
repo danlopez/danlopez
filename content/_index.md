@@ -1,6 +1,6 @@
 ---
 title: "Hi, I'm Dan Lopez"
-description: "Engineering Leadership, DevOps and more"
+description: "Building gritty stuff"
 date: 2021-01-20T21:05:38+01:00
 ---
 ### Building resilient systems & great products
