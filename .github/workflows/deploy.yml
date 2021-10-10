@@ -7,15 +7,14 @@ name: github pages
 # events but only for the master branch
 on:
   push:
-    # branches: main
-    branches: raspberry-pi # Doesn't exist, revert if we can get aroudn ISP rules
+    branches: main
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   deploy:
     # The type of runner that the job will run on
-    runs-on: self-hosted
-
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v2
@@ -27,11 +26,20 @@ jobs:
       uses: peaceiris/actions-hugo@v2
       with:
           hugo-version: 'latest'
-    - name: Clean public directory
-      run: rm -rf public
 
-    - name: Build
-      run: hugo -D
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        cname: danlopez.fyi
     
-    - name: Copy to site directory
-      run: rsync -a public/* /home/pi/site
+    # Uncomment out if we ever use raspberry pi again
+    # - name: Clean public directory
+    #   run: rm -rf public
+
+    # - name: Build
+    #   run: hugo -D
+    
+    # - name: Copy to site directory
+    #   run: rsync -a public/* /home/pi/site
