@@ -4,17 +4,17 @@ description: "Learn about me and my work"
 ---
 <!-- <img src="/img/dan.png" align="left" hspace="10" />  -->
 
-I've spent the past 10 years leading engineering teams at startups and in the public sector. When I'm writing code, it's usually infrastructure - reusable terraform modules, CI / CD pipelines, and other things that can help my teams ship product faster. 
+I've spent the past 10 years leading engineering teams at startups and in the public sector. When I'm writing code, it's usually infrastructure - reusable terraform modules, CI / CD pipelines, and other things that can help my teams ship product faster and improve our infrastructure. 
 
 I'm a product focused engineer - I have strong opinions and love talking to users about ways to make products work better for them. While I have spent years working across the stack, these days I do just about anything to avoid writing any CSS. 
 
-I've spent the last ~12 years living in Philadelphia, PA. When I'm not working, I like to play board games, get outside to run and hike, explore Philly's great restaurant scene...
+I've spent the last ~12 years living in Philadelphia, PA. When I'm not working, I like to play board games, get outside to run and hike, explore Philly's great restaurant scene.
 
-### My Work
+### Resume
 #### Director of Software Engineering
 *City of Philadelphia, 2019 - present*
 
-I've spent the past two+ years working in local government as the City of Philadelphia's Director of Software Engineering. During that time, I've focused on how to bring **cloud-native**, agile practices to City technologies. I've grown my team threefold and successfully delivered on a number of major projects and initiatives, ranging from launching [The Lead and Healhty Homes Site](https://leadcertification.phila.gov), developing a resident-facing single sign on platform, migrating all of my team's applications into our cloud environments and much more. 
+I've spent the past two+ years working in local government as the City of Philadelphia's Director of Software Engineering. During that time, I've focused on how to bring **cloud-native**, agile practices to City technologies. I've grown my team threefold and successfully delivered on a number of major projects and initiatives, ranging from launching [The Lead and Healthy Homes Site](https://leadcertification.phila.gov), developing a resident-facing single sign on platform, migrating all of my team's applications into our cloud environments and much more. 
 
 I'm incredibly proud of my team's work on **equity and access**. Since I've joined, we've written citywide policies for web accessibility, made language access (and native translations) a core component of phila.gov and a variety of other applications and more. On top of that, I've worked with my colleague Sara Hall to build an internal apprenticeship program to improve diversity within our technology positions. 
 
@@ -31,3 +31,11 @@ I joined an education technology company, ApprenNet, as employee #2, at the star
 
 I led / founded multiple other startups, including GatherDocs, acquired by Efficient Hire, and LessonSmith, a TechStars company.
 
+#### Teacher
+*School District of Philadelphia*
+
+I taught high school biology, physics and environmental science, as well as coached high school robotics. 
+
+### Education
+
+MIT (Undergrad, Course 2), Penn Graduate School of Education
