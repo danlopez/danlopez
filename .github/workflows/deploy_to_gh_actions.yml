@@ -30,16 +30,9 @@ jobs:
     - name: Build
       run: hugo -D
 
-    - name: Deploy to GH Actions
+    - name: Deploy to GH Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         cname: www.danlopez.fyi
-    
-    # Deploy to raspberry pi
-    - name: Clean public directory
-      run: rm -rf public
-    
-    - name: Copy to site directory
-      run: rsync -a public/* /home/pi/site
