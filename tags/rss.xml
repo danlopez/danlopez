@@ -5,6 +5,25 @@
     <link>https://danlopez.fyi/tags/</link>
     <description>Recent content in Tags on danlopez.fyi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://danlopez.fyi/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Oct 2021 02:51:15 -0400</lastBuildDate><atom:link href="https://danlopez.fyi/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>infrastructure</title>
+      <link>https://danlopez.fyi/tags/infrastructure/</link>
+      <pubDate>Mon, 11 Oct 2021 02:51:15 -0400</pubDate>
+      
+      <guid>https://danlopez.fyi/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberrypi</title>
+      <link>https://danlopez.fyi/tags/raspberrypi/</link>
+      <pubDate>Mon, 11 Oct 2021 02:51:15 -0400</pubDate>
+      
+      <guid>https://danlopez.fyi/tags/raspberrypi/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
