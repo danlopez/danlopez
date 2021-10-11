@@ -1,7 +1,7 @@
 # Workflow to build and deploy site to Github Pages using Hugo
 
 # Name of Workflow
-name: github pages
+name: Deploy site
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -13,8 +13,8 @@ on:
 jobs:
   deploy:
     # The type of runner that the job will run on
-    # runs-on: self-hosted
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
+    # runs-on: ubuntu-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v2
@@ -30,16 +30,16 @@ jobs:
     - name: Build
       run: hugo -D
 
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
-        cname: www.danlopez.fyi
+    # - name: Deploy to GH Actions
+    #   uses: peaceiris/actions-gh-pages@v3
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     publish_dir: ./public
+    #     cname: www.danlopez.fyi
     
-    # Uncomment out if we ever use raspberry pi again
-    # - name: Clean public directory
-    #   run: rm -rf public
+    Uncomment out if we ever use raspberry pi again
+    - name: Clean public directory
+      run: rm -rf public
     
-    # - name: Copy to site directory
-    #   run: rsync -a public/* /home/pi/site
+    - name: Copy to site directory
+      run: rsync -a public/* /home/pi/site
