@@ -10,10 +10,11 @@
     <item>
       <title>About this site</title>
       <link>https://danlopez.fyi/blog/this-site/</link>
-      <pubDate>Tue, 05 Oct 2021 20:50:24 -0400</pubDate>
+      <pubDate>Mon, 11 Oct 2021 12:30:00 -0400</pubDate>
       
       <guid>https://danlopez.fyi/blog/this-site/</guid>
-      <description>This site exists because I happened to have an extra raspberry pi sitting around that I wasn&amp;rsquo;t using and thought it would be fun to host a super lightweight, performant site using it on my home ISP. However&amp;hellip; I learned that doing so violates the terms of service for my internet connection. Considering that I rely on my home internet to actually work, this seemed like a non-starter. A quick google didn&amp;rsquo;t reveal any clear reason why this is the case, but I&amp;rsquo;m assuming it&amp;rsquo;s a legal liability thing.</description>
+      <description>This site exists because I happened to have an extra raspberry pi sitting around that I wasn&amp;rsquo;t using and thought it would be fun to host a super lightweight, performant site on it. Is this the cheapest way I can do things? No&amp;hellip; because GitHub pages is free. But it&amp;rsquo;s more fun!
+After talking to my ISP and confirming that they are ok with it - which was really, really lucky, because most ISPs explicitly don&amp;rsquo;t allow it - I stood things up.</description>
     </item>
     
   </channel>
