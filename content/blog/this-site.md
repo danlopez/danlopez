@@ -1,6 +1,6 @@
 ---
 title: "About this site"
-date: 2021-10-5T12:30:00-04:00
+date: 2021-10-05T12:30:00-04:00
 description: "Where do the packets come from?"
 tags: 
     - raspberrypi
