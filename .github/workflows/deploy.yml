@@ -30,14 +30,14 @@ jobs:
     - name: Build
       run: hugo -D
 
-    # - name: Deploy to GH Actions
-    #   uses: peaceiris/actions-gh-pages@v3
-    #   with:
-    #     github_token: ${{ secrets.GITHUB_TOKEN }}
-    #     publish_dir: ./public
-    #     cname: www.danlopez.fyi
+    - name: Deploy to GH Actions
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        cname: www.danlopez.fyi
     
-    Uncomment out if we ever use raspberry pi again
+    # Deploy to raspberry pi
     - name: Clean public directory
       run: rm -rf public
     
