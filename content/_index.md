@@ -9,4 +9,4 @@ I've spent the past 10 years leading engineering teams at startups and in the pu
 
 I'm a product focused engineer - I have strong opinions and love talking to users about ways to make products work better for them. While I have spent years working across the stack, these days I mostly just do cloud plumbing when I'm writing any code...[learn more about me]({{< relref "/about-me" >}} "About Me")
 
-#### Some blog posts that are likely outdated
+#### Blog
