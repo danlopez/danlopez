@@ -18,7 +18,7 @@ The stack this site is built on:
 * nginx
 * built using hugo & simple.css
 * deployed on the same raspberry pi using a self-hosted github action
-* noip [dynamic dns](({{< relref "/blog/dynamic-dns" >}} "dynamic dns"))
+* noip [dynamic dns]({{< relref "/blog/dynamic-dns" >}} "dynamic dns")
 * wifi, because my router is in a poor location. 
 
 More to come in the future as I think about failover in the event of a power outage, dynamic IP addresses and more. 
