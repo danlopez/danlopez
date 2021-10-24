@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2021 21:05:38 -0400</lastBuildDate><atom:link href="https://danlopez.fyi/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Performance tasks for hiring engineers</title>
+      <link>https://danlopez.fyi/blog/performance-tasks/</link>
+      <pubDate>Sun, 24 Oct 2021 08:51:01 -0400</pubDate>
+      
+      <guid>https://danlopez.fyi/blog/performance-tasks/</guid>
+      <description>A lot of engineers are staunchly opposed to the idea of a performance / take home task in the hiring process, and I get it. They can be time consuming, they&amp;rsquo;re often scoped incorrectly, and it can be hard to imagine that the hiring team spends anywhere near the amount of time on it that you did. There are also equity issues with take home tasks - not everyone has a huge amount of time to spend working on these.</description>
+    </item>
+    
+    <item>
       <title>Dynamic DNS</title>
       <link>https://danlopez.fyi/blog/dynamic-dns/</link>
       <pubDate>Mon, 11 Oct 2021 02:51:15 -0400</pubDate>
