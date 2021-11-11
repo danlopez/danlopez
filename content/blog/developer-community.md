@@ -43,13 +43,17 @@ When teams choose to embrace all of our shared services, whether by embedding th
 When we're at this level, it's easier to provide support and grow together - it's almost like a superpower. We can share code samples, we can debug each other's services and more. While we don't need to bring all departments and groups here to be successful, we think that doing so helps the City deliver higher quality services more efficiently. 
 
 ## Our approaches to building community
+OK, so the big question here is - how do we take a silo'ed environment and bring people together, providing meaningful opportunities to share ideas and collaborate? 
 
-### Shared Services
+We start at the team (org level?) level by sharing ideas and patterns. We encourage code review across projects. Our team is often split across a number of different concurrent projects, but we try to make sure that our front-end developers follow similar patterns, share what works and what doesn't, and just know what everyone is working on. Our team at OIT does our best to work in the open - unless we have an explicit reason not to, our source code is shared with all other groups in the City. Our project channels are in the open. When we implement meaningful new patterns, we try to publicly share them on our Confluence pages and in specific channels (we use Teams, but this works on slack too). This **transparency** is a key level in building community. Our goal is that people know who each other are and what they are working on; that way when someone actually needs help they have a head start and feel comfortable working together. 
 
-### Exchange of Ideas (DevXChange)
+I mentioned this already so won't go into a ton of detail here, but we also develop - and evangelize - shared services. We do our best to closely suppport any group interested in using these services. 
 
-### Transparency
+Finally, a huge part of our community building comes in the form of our regular (often quarterly) developer meet-ups across the City. These meetings - we call them DevXChange, or DevX for short - are the place for teams to share the work they are doing with others, ranging from fully built solutions to shared services they can consume. We've covered topics such as using Google Analytics, implementing login via Azure AD, building APIs on Fargate and much more. We have over 75 regular attendees for DevX and this is the single best way for us to get in touch with developers around the City. DevX is supported by Teams channels and confluence pages. We're constantly pulling new developers into the community, including many that are completely outside of our organization. 
 
+DevX has become a jumping off point for trainings; we've offered wide-reaching trainings on monitoring and observability, AWS services, Git & GitHub, web accessibility and more. We also use DevX as a place for education on new and updated standards. While we could do some of this over email, we find that the best way to get buy-in here is to provide value and support through education, code samples and transparency. 
 
-5. What we need?
-    1. More time to engage. More support from departmental leadership. More educational opportunities. 
+## What's next?
+While we've been building these structures for community for years, we still have a long ways to go. Less than half of City developers leverage our shared services. While all new RFPs now include language around key standards for web accessibility and data access via APIs, the majority of our services aren't hitting our mark. As we continue to prioritize community, we'd like to see more groups of developers self organizing and sharing best practices, designs and more. One of our biggest challenges is a common one in government - we're all drastically under-resourced. While we understand that investments in community always pay off in the long run, it can be hard for us to embrace it in the short-term when we have fires that need to be put out. 
+
+If you're a City developer reading this, please take the time to reach out and get to know your colleagues! 
