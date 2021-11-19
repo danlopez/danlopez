@@ -6,7 +6,17 @@
     <description>Recent content in engleadership on danlopez.fyi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Oct 2021 08:51:01 -0400</lastBuildDate><atom:link href="https://danlopez.fyi/tags/engleadership/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 08:21:11 -0500</lastBuildDate><atom:link href="https://danlopez.fyi/tags/engleadership/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Developer Communities</title>
+      <link>https://danlopez.fyi/blog/developer-community/</link>
+      <pubDate>Fri, 19 Nov 2021 08:21:11 -0500</pubDate>
+      
+      <guid>https://danlopez.fyi/blog/developer-community/</guid>
+      <description>Note: The below is not an official communication of the City of Philadelphia, all opinions are my own
+While we can all agree that engineers hate meetings, we all also know that we work better when we&amp;rsquo;re part of a community. Most engineers want to have colleagues that give thoughtful code reviews, want to participate in a collaborative software design process, and feel supported. Nobody likes the feeling of being the only one that can solve an issue - and more practically, being on call all of the time.</description>
+    </item>
+    
     <item>
       <title>Performance tasks for hiring engineers</title>
       <link>https://danlopez.fyi/blog/performance-tasks/</link>
