@@ -1,6 +1,6 @@
 ---
 title: "Building Developer Communities"
-date: 2021-11-11T9:21:11-05:00
+date: 2021-11-19T8:21:11-05:00
 description: "Building degrees of community in a disparate organization"
 tags: 
     - engleadership
@@ -23,7 +23,7 @@ At number of departments also have their own development teams, ranging from lar
 
 ## Three tiers of developer community
 
-While our goal is for all developers at the City to feel supported in their mission to produce high quality code and reliable, accessible services for City developers, not everyone is interested and willing to engage. 
+While our goal is for all developers at the City to feel supported in their mission to produce high quality code and reliable, accessible services for City developers, it doesn't happen without a lot of work from all parties.
 
 ### Tier 1: Visibility & standards
 The lowest level of community starts with visibility. At central OIT, we want to make sure we know what everyone is building, where their source code lives (ideally in our central GitHub), where their services reside online and whether they are up. We also want to help developers build software that's more secure and better supported when things go wrong. If a department with a single developer loses them and we *don't* know where the source lives, that can present a huge problem. 
