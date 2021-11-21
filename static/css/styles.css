@@ -2,3 +2,14 @@
 .homepage {
     display: flex;
 }
+
+main {
+    margin: 0 15px;
+}
+
+.headshot {
+    border-radius: 50%;
+    float: right;
+    margin: 10px;
+    max-width: 150px;
+}
