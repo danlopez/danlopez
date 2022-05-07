@@ -30,7 +30,7 @@ jobs:
           hugo-version: 'latest'
 
     - name: Build
-      run: hugo -D
+      run: hugo
     
     - name: Copy to site directory
       run: rsync -a public/* /home/pi/site
