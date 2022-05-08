@@ -1,7 +1,7 @@
 ---
 title: "Context Matters"
 date: 2022-05-07T13:20:44-04:00
-description: "Every team is different. Do what's right for yours, not theirs."
+description: "Every team is different. One size doesn't fit all for people, technology and process."
 draft: false
 tags: 
     - engleadership
