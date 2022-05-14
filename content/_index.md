@@ -9,5 +9,4 @@ date: 2021-10-05T21:05:38-04:00
 
 I'm a product focused engineer - I have strong opinions and love talking to users about ways to make products work better for them. While I have spent years working across the stack, these days I mostly just do cloud plumbing when I'm writing any code...[learn more about me]({{< relref "/about-me" >}} "About Me")
 
-Deployed to Vultr.
 #### Blog
