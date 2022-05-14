@@ -33,4 +33,4 @@ jobs:
       run: hugo
     
     - name: Copy to site directory
-      run: rsync -a public/* /home/pi/site
+      run: rsync -avz public/* /home/pi/site

@@ -7,7 +7,7 @@ name: Deploy site
 # events but only for the master branch
 on:
   push:
-    branches: main
+    branches: vultr
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -29,9 +29,12 @@ jobs:
     - name: Build
       run: hugo
 
-    - name: Deploy to GH Pages
-      uses: peaceiris/actions-gh-pages@v3
+    - name: rsync deployments
+      uses: burnett01/rsync-deployments@5.2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
-        cname: www.danlopez.fyi
+        switches: -avzr --delete
+        path: public/
+        remote_path: /home/Projects/vultr.danlopez.fyi/public
+        remote_host: vultr.danlopez.fyi
+        remote_user: deploy
+        remote_key: ${{ secrets.VULTR_DEPLOY_SSH }}
