@@ -2,7 +2,7 @@
 title: "Cooking Temperature Guide"
 date: 2022-08-26T10:54:33-04:00
 description: "Cooking Temperatures Guide, mostly from Kenji Lopez-Alt"
-draft: false
+draft: true
 ---
 
 Although I do a lot of cooking, I often find myself looking up the target temperature for certain proteins over and over again. I decided it would be helpful to put it into a guide that I can reuse and host it here. All temperatures in Fahrenheit.
