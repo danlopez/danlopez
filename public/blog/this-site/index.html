@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/images/favicon.png" />
+    <title>About this site | danlopez.fyi</title>
+    <meta name="description" content="Where do the packets come from?" />
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <link rel="stylesheet" href="/css/styles.css"/>
+    <script async defer src="https://beampipe.io/js/tracker.js" data-beampipe-domain="danlopez.fyi"></script>
+</head>
+<body>
+<header>
+  <h1>About this site</h1>
+  <p>Where do the packets come from?</p>
+  <nav>
+  <a href="/" title="">Home</a><a href="/about-me" title="">About</a><a href="/blog" title="">Blog</a><a href="/contact" title="">Contact</a>
+</nav>
+</header>
+<main>
+<p>📅 5 Oct 2021</p>
+
+<p><em>Edited 10/11 to account for dynamic DNS</em></p>
+<p>This site exists because I happened to have an extra raspberry pi sitting around that I wasn&rsquo;t using and thought it would be fun to host a super lightweight, performant site on it. Is this the cheapest way I can do things? No&hellip; because GitHub pages is free. But it&rsquo;s more fun!</p>
+<p>After talking to my ISP and confirming that they are ok with it - which was really, really lucky, because most ISPs explicitly don&rsquo;t allow it - I stood things up.</p>
+<p>The stack this site is built on:</p>
+<ul>
+<li>raspberry pi 4 running raspbian</li>
+<li>nginx</li>
+<li>built using hugo &amp; simple.css</li>
+<li>deployed on the same raspberry pi using a self-hosted github action</li>
+<li>noip <a href="/blog/dynamic-dns/" title="dynamic dns">dynamic dns</a></li>
+<li>wifi, because my router is in a poor location.</li>
+</ul>
+<p>More to come in the future as I think about failover in the event of a power outage, dynamic IP addresses and more.</p>
+
+
+<br>
+</main>
+<footer>
+  <p>This site was made using <a href="https://gohugo.io">Hugo</a> and
+  <a href="https://simplecss.org">Simple.css</a> and is hosted on a 
+  <a href="/blog/this-site">raspberry pi</a>.</p>
+</footer>
+</body>
+</html>

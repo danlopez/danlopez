@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on danlopez.fyi</title>
+    <link>https://danlopez.fyi/tags/</link>
+    <description>Recent content in Tags on danlopez.fyi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 May 2022 13:20:44 -0400</lastBuildDate><atom:link href="https://danlopez.fyi/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>engleadership</title>
+      <link>https://danlopez.fyi/tags/engleadership/</link>
+      <pubDate>Sat, 07 May 2022 13:20:44 -0400</pubDate>
+      
+      <guid>https://danlopez.fyi/tags/engleadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cityofphiladelphia</title>
+      <link>https://danlopez.fyi/tags/cityofphiladelphia/</link>
+      <pubDate>Fri, 19 Nov 2021 08:21:11 -0500</pubDate>
+      
+      <guid>https://danlopez.fyi/tags/cityofphiladelphia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hiring</title>
+      <link>https://danlopez.fyi/tags/hiring/</link>
+      <pubDate>Sun, 24 Oct 2021 08:51:01 -0400</pubDate>
+      
+      <guid>https://danlopez.fyi/tags/hiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infrastructure</title>
+      <link>https://danlopez.fyi/tags/infrastructure/</link>
+      <pubDate>Mon, 11 Oct 2021 02:51:15 -0400</pubDate>
+      
+      <guid>https://danlopez.fyi/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberrypi</title>
+      <link>https://danlopez.fyi/tags/raspberrypi/</link>
+      <pubDate>Mon, 11 Oct 2021 02:51:15 -0400</pubDate>
+      
+      <guid>https://danlopez.fyi/tags/raspberrypi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

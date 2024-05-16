@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/images/favicon.png" />
+    <title>Performance tasks for hiring engineers | danlopez.fyi</title>
+    <meta name="description" content="Why I use them and how to make them effective" />
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <link rel="stylesheet" href="/css/styles.css"/>
+    <script async defer src="https://beampipe.io/js/tracker.js" data-beampipe-domain="danlopez.fyi"></script>
+</head>
+<body>
+<header>
+  <h1>Performance tasks for hiring engineers</h1>
+  <p>Why I use them and how to make them effective</p>
+  <nav>
+  <a href="/" title="">Home</a><a href="/about-me" title="">About</a><a href="/blog" title="">Blog</a><a href="/contact" title="">Contact</a>
+</nav>
+</header>
+<main>
+<p>📅 24 Oct 2021</p>
+
+<p>A lot of engineers are staunchly opposed to the idea of a performance / take home task in the hiring process, and I get it. They can be time consuming, they&rsquo;re often scoped incorrectly, and it can be hard to imagine that the hiring team spends anywhere near the amount of time on it that you did. There are also equity issues with take home tasks - not everyone <em>has</em> a huge amount of time to spend working on these. For tasks with an unenforced time limit, going over the time limit can often lead to vastly better results, biasing the instrument. All of that said, I absolutely think there&rsquo;s still a time and a place for them, as long as they&rsquo;re done deliberately.</p>
+<p>So, when is a performance task appropriate? In terms of timing, it shouldn&rsquo;t be done before you&rsquo;ve spoken to a candidate at least once. If you&rsquo;re the hiring manager and you&rsquo;re doing your own phone screens, you can give a candidate a performance task right after the phone screen. If you&rsquo;re relying on recruiters to do a phone screen, you should make sure a technical member of the hiring team finishes a phone screen before jumping into a task. They take too much time for candidates for it to be reasonable otherwise; you want to make sure they are a really good candidate before asking them to spend up to 4 hours on a task. You should assume anyone you&rsquo;re giving a performance task to is someone you&rsquo;d want to have do a final round interview.</p>
+<p>The second thing to consider is just how much your role would benefit from a performance task. I&rsquo;ll get into this later, but a well designed performance task will mimic the actual work that an employee will be doing. Generally, this means that performance tasks are easier to write for lower level roles. Personally, I use them for junior and mid-level roles but haven&rsquo;t used them for senior roles and higher. This is partially because the work a senior does varies quite a bit more, but also because it&rsquo;s easier to evaluate an applicant&rsquo;s past work and contributions at the senior level.</p>
+<p>For the actual performance tasks themselves, I try to ask myself the following questions when I&rsquo;m developing them:</p>
+<ol>
+<li>How can I best mimic the work that they will be doing? (Note that this also applies to technical interview questions)</li>
+<li>Does this task lead itself to a good discussion during a final round interview?</li>
+<li>If someone spends extra time on the task, will they do much better?</li>
+<li>How can I set clear expectations for the task?</li>
+</ol>
+<p>For the first, I often try to find a recently developed feature or task that this role would be responsible for. For a backend engineering role, it might be implementing a new set of API endpoints or designing a data model. I try to make sure the task is very well specc&rsquo;ed out - if we&rsquo;re asking for an API, it should say exactly what features to include, have good descriptions of the data model, etc. I usually don&rsquo;t provide a starting repository to clone here, as I believe that new programming languages can be picked up pretty quickly and would rather someone work where they are most comfortable - I don&rsquo;t want a python developer to feel like they need to learn .NET just for a performance task.</p>
+<p>For an SRE role, I like to set up an empty AWS account with a number of sub-optimal configurations (e.g, resource usage, security, networking, application infrastructure). I grant candidates read only access and ask them to audit the account and produce an email with recommendations. This is fairly typical of the tasks they&rsquo;d have to do on the job - helping developers build new resources (a.k.a cleaning up after them), etc.</p>
+<p>The discussion is a hugely important piece. You should plan to spend a full technical interview (30-60 minutes) reviewing the performance task with the applicant. Ideally this feels like a &lsquo;design review&rsquo; process and is highly collaborative. You&rsquo;re trying to get a feel for how they think and work, and whether they would fit in well on your team. You can also use this time to push on the edges of the work they did and see how far their knowledge goes in a variety of different areas. You asked them to write an API? Maybe ask them how they would deploy it or monitor it.</p>
+<p>For all of my tasks, I ask that applicants write out what they would have done if they had more time. It&rsquo;s often infeasible to write unit tests in a 4 hour block, or authentication / authorization, logging, etc, but it helps to know that they&rsquo;re aware of the need to do.</p>
+<p>I can&rsquo;t stress enough how important it is to set clear expectations. This applies to the time limit and to the deliverable itself. If you want someone to write code and submit it on github, either come prepared with a repository for them to submit to or explicit instructions on how to set up a private repo and share it with your hiring team. If you are asking them to write an interface, make sure that there are clear requirements in place (unless part of the performance task is dealing with uncertainty, but this should be deliberate and central to the task, then).</p>
+<p>Finally, be flexible! Ask for it to be done on a certain - reasonable - timeline, but let candidates tell if you that doesn&rsquo;t work for them. You should always give at least a week to complete a 4 hour task, people need time to plan things like this.</p>
+<p>I&rsquo;ve hired some great candidates by using this process. While I can&rsquo;t guarantee it - hiring is always hard, no matter how many reps you get, especially for mids &amp; juniors - I think performance tasks help you do a better job quickly answering the most important question: is this person able to do the work and are they someone you and your team wants to work with.</p>
+
+
+<br>
+</main>
+<footer>
+  <p>This site was made using <a href="https://gohugo.io">Hugo</a> and
+  <a href="https://simplecss.org">Simple.css</a> and is hosted on a 
+  <a href="/blog/this-site">raspberry pi</a>.</p>
+</footer>
+</body>
+</html>
