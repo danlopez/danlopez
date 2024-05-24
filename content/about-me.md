@@ -2,38 +2,53 @@
 title: "About"
 description: "Learn about me and my work"
 ---
-<img src="/img/dan.jpeg" class="headshot" />I've spent the past 10 years leading engineering teams at startups and in the public sector. When I'm writing code, it's usually infrastructure - reusable terraform modules, CI / CD pipelines, and other things that can help my teams ship product faster and improve our infrastructure. 
+<img src="/img/dan.jpeg" class="headshot" />
+I’ve spent my career building inclusive, impactful digital solutions. With a deep background in engineering leadership, product development, digital accessibility, and responsible AI, I’m passionate about creating technology that empowers people and transforms organizations.
 
-I'm a product focused engineer - I have strong opinions and love talking to users about ways to make products work better for them. While I have spent years working across the stack, these days I do just about anything to avoid writing any CSS. 
+## About Me
 
-I've spent the last ~12 years living in Philadelphia, PA. When I'm not working, I like to play board games, get outside to run and hike, explore Philly's great restaurant scene.
+With over 15 years in the tech industry, I’ve had the opportunity to work across startups, government, and non-profits. My journey started with a Bachelor's in Mechanical Engineering from MIT and a Master's in Education from the University of Pennsylvania. Since then, I’ve led engineering teams, driven product development, and always focused on delivering innovative and accessible solutions.
 
-### Resume
-#### Director of Software Engineering
-*City of Philadelphia, 2019 - present*
+## My Work
 
-I've spent the past two+ years working in local government as the City of Philadelphia's Director of Software Engineering. During that time, I've focused on how to bring **cloud-native**, agile practices to City technologies. I've grown my team threefold and successfully delivered on a number of major projects and initiatives, ranging from launching [The Lead and Healthy Homes Site](https://leadcertification.phila.gov), developing a resident-facing single sign on platform, migrating all of my team's applications into our cloud environments and much more. 
+### Login.gov - Director of Engineering
 
-I'm incredibly proud of my team's work on **equity and access**. Since I've joined, we've written citywide policies for web accessibility, made language access (and native translations) a core component of phila.gov and a variety of other applications and more. On top of that, I've worked with my colleague Sara Hall to build an internal apprenticeship program to improve diversity within our technology positions. 
+As the Director of Login.gov, the US government's digital identity and single sign on platform, I led an amazing team of public servants dedicated to providing secure and accessible digital identity solutions for millions of users. I was hired was to stabilize and scale the organization during a challenging period marked by a major inspector general report. This involved managing media relations, congressional outreach, navigating complex organizational dynamics at the same time as shipping key product enhancements and growing the team.
 
-A core focus of the work has been making the applications and sites we support more **reliable and maintainable**. We've rewritten apps into a standard architecture on AWS Fargate (provisioned by a terraform module), allowing for extremely high uptime across everything we do. We've written [PhilaUI](http://ui.phila.gov) to give us a consistent look and feel across our applications. We've also invested heavily in reusable patterns in our APIs.
+- **Product Improvements**: Launched in-person proofing services at over 18,000 USPS locations and established a 24/7 call center, significantly enhancing user support and service delivery.
+- **Responsible AI**: Oversaw the implementation of facial recognition technology with a strong emphasis on ethical considerations and responsible AI practices. 
+- **Fraud Mitigation**: Create a dedicated fraud team and enhanced the product with key features to detect and mitigate fraudulent activities, safeguard user identities, and improve system integrity.
+- **Stakeholder Management**: Regularly briefed stakeholders at the White House, congressional committees, and agency leadership, ensuring alignment and support for Login.gov’s initiatives.
+- **Technical Policy Guidance**: Provided technical policy guidance to ensure compliance with evolving regulations and standards, contributing to policies that balance innovation with user privacy and security.
 
-#### Senior Director of Engineering | VP of Engineering
-*Instructure | Practice | ApprenNet, 2014 - 2019*
+### City of Philadelphia - Director of Software Engineering
 
-I joined an education technology company, ApprenNet, as employee #2, at the start of 2014. As the company grew, I eventually moved into a VP of Engineering role by the time we were acquired by Instructure in 2017. On the way, we built multiple products, closed an enterprise deal with the largest nursing education provider in the country and much more. I led the team through due diligence and acquisition to a new home at Instructure, where I led geographically separate teams working on Canvas and Bridge in Salt Lake City, Philadelphia, San Francisco and Chicago.
+At the City of Philadelphia, I led the development of modern, user-centric applications that improved city services while introducing modern digital services and software design practices to the City. My leadership helped streamline operations and foster a culture of innovation across the City's technology products.
 
+- **Team Growth and Management**: Expanded and scales OIT’s software engineering team from 4 to 18 developers across three teams.
+- **Diverse Hiring Practices**: Conceptualizing and implemented a DEI-focused apprenticeship program to upskill existing City employees via a partner coding bootcamp, resulting in multiple new engineering hires from non-traditional backgrounds.
+- **Product Development**: Led the conceptualization, planning, and implementation of numerous projects at the City, ranging from shared services like login.phila.gov to major applications like the [Lead and Healthy Homes Portal](https://leadcertification.phila.gov/login).
+- **COVID-19 Response**: Oversaw the development of critical COVID-19 related applications, including a vaccination interest form and GIS-based web applications to find test sites, free food, and vaccination sites.
+- **Agile Transformation**: Implemented agile processes across OIT engineering, UX, and product teams, leading to high-quality project deliveries and improved stakeholder engagement.
+- **Cloud Engineering**: Created and managed a new Cloud Engineering team, directing the secure expansion of AWS usage across the City and reducing AWS spend by 35% monthly. Personally developed terraform modules to quickly launch secure, scalable applications using AWS Fargate for City applications.
 
-#### Co-Founder, CTO
-*GatherDocs, LessonSmith*
+### Startup Experience
 
-I led / founded multiple other startups, including GatherDocs, acquired by Efficient Hire, and LessonSmith, a TechStars company.
+Prior to my work in government, I was deeply involved in the startup ecosystem. I co-founded or served as a very early employee at successful, fast growing startups, where I played key roles in product development and engineering leadership. My startup experience honed my skills in agile development, rapidly scaling engineering teams and managing complex stakeholder environments. These experiences have given me a unique perspective on the challenges and opportunities in both the public and private sectors.
 
-#### Teacher
-*School District of Philadelphia*
+## Expertise
 
-I taught high school biology, physics and environmental science, as well as coached high school robotics. 
+- **Engineering Leadership**: Building and nurturing high-performing teams, driving technical strategy, and fostering a culture of continuous improvement.
+- **Product Development**: Leading cross-functional teams to deliver impactful products, from concept to launch, always focused on user needs and market demands.
+- **Digital Identity Solutions**: Designing and deploying secure, user-friendly identity verification and authentication systems.
+- **Responsible AI**: Ensuring ethical implementation and use of AI technologies, particularly in areas like facial recognition and fraud detection.
+- **Technical Policy Guidance**: Supporting the development and implementation of technical policies that ensure compliance and foster responsible innovation.
+- **Accessibility**: Advocating for and implementing best practices in web accessibility to ensure inclusive experiences for all users.
 
-### Education
+## Mission
 
-MIT (Undergrad, Course 2), Penn Graduate School of Education
+I believe in the power of technology to drive positive change. Whether it’s improving public services, enhancing accessibility, developing responsible AI solutions, or guiding policy, my goal is to create solutions that make a real difference in people’s lives.
+
+## Let's Connect
+
+I’m always interested in discussing new opportunities, sharing insights, and collaborating on meaningful projects. Feel free to [contact me](mailto:hi@danlopez.fyi) or connect with me on [LinkedIn](https://www.linkedin.com/in/danlopez).

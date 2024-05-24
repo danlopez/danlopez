@@ -1,12 +1,10 @@
 ---
 title: "Hi, I'm Dan Lopez"
-description: "Engineering leader for government and startups"
+description: "Mission-Driven Technology Executive | Product Leader | Responsible AI"
 date: 2021-10-05T21:05:38-04:00
 ---
 ### Building resilient systems & great products
 
-<img src="/img/dan.jpeg" class="headshot" />I've spent the past 10 years leading engineering teams at startups and in the public sector. I obsess over the **reliability** of our systems at the City of Philadelphia. **Accessibility** is another main interest and focus area of mine.
-
-I'm a product focused engineer - I have strong opinions and love talking to users about ways to make products work better for them. While I have spent years working across the stack, these days I mostly just do cloud plumbing when I'm writing any code...[learn more about me]({{< relref "/about-me" >}} "About Me")
+<img src="/img/dan.jpeg" class="headshot" />I’ve spent my career building inclusive, impactful digital solutions. With a deep background in engineering leadership, product development, digital accessibility, and responsible AI, I’m passionate about creating technology that empowers people and transforms organizations. I've led technical organizations in the federal government, where I served as the Director of [login.gov](https://login.gov/), in local government and at a number of startups. I care deeply about doing work with a strong mission behind it that leads to positive impact for our society. [Learn more about me and my work]({{< relref "/about-me" >}} "About Me")
 
 #### Blog
