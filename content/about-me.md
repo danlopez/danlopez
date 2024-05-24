@@ -13,7 +13,7 @@ With over 15 years in the tech industry, I’ve had the opportunity to work acro
 
 ### Login.gov - Director of Engineering
 
-As the Director of Login.gov, the US government's digital identity and single sign on platform, I led an amazing team of public servants dedicated to providing secure and accessible digital identity solutions for millions of users. I was hired was to stabilize and scale the organization during a challenging period marked by a major inspector general report. This involved managing media relations, congressional outreach, navigating complex organizational dynamics at the same time as shipping key product enhancements and growing the team.
+As the Director of Login.gov, the US government's digital identity and single sign on platform, I led an amazing team of public servants dedicated to providing secure and accessible digital identity solutions for millions of users. I was hired to stabilize and scale the organization during a challenging period marked by a major inspector general report. This involved managing media relations, congressional outreach, navigating complex organizational dynamics at the same time as shipping key product enhancements and growing the team.
 
 - **Product Improvements**: Launched in-person proofing services at over 18,000 USPS locations and established a 24/7 call center, significantly enhancing user support and service delivery.
 - **Responsible AI**: Oversaw the implementation of facial recognition technology with a strong emphasis on ethical considerations and responsible AI practices. 
@@ -25,9 +25,9 @@ As the Director of Login.gov, the US government's digital identity and single si
 
 At the City of Philadelphia, I led the development of modern, user-centric applications that improved city services while introducing modern digital services and software design practices to the City. My leadership helped streamline operations and foster a culture of innovation across the City's technology products.
 
-- **Team Growth and Management**: Expanded and scales OIT’s software engineering team from 4 to 18 developers across three teams.
-- **Diverse Hiring Practices**: Conceptualizing and implemented a DEI-focused apprenticeship program to upskill existing City employees via a partner coding bootcamp, resulting in multiple new engineering hires from non-traditional backgrounds.
-- **Product Development**: Led the conceptualization, planning, and implementation of numerous projects at the City, ranging from shared services like login.phila.gov to major applications like the [Lead and Healthy Homes Portal](https://leadcertification.phila.gov/login).
+- **Team Growth and Management**: Expanded and scaled OIT’s software engineering team from 4 to 18 developers across three teams.
+- **Diverse Hiring Practices**: Conceptualized and implemented a DEI-focused apprenticeship program to upskill existing City employees via a partner coding bootcamp, resulting in multiple new engineering hires from non-traditional backgrounds.
+- **Product Development**: Led the planning, and implementation of numerous projects at the City, ranging from shared services like login.phila.gov to major applications like the [Lead and Healthy Homes Portal](https://leadcertification.phila.gov/login).
 - **COVID-19 Response**: Oversaw the development of critical COVID-19 related applications, including a vaccination interest form and GIS-based web applications to find test sites, free food, and vaccination sites.
 - **Agile Transformation**: Implemented agile processes across OIT engineering, UX, and product teams, leading to high-quality project deliveries and improved stakeholder engagement.
 - **Cloud Engineering**: Created and managed a new Cloud Engineering team, directing the secure expansion of AWS usage across the City and reducing AWS spend by 35% monthly. Personally developed terraform modules to quickly launch secure, scalable applications using AWS Fargate for City applications.
