@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{- range where site.RegularPages "Type" "in" site.Params.mainSections }}
+    <p><a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+    {{ .Description }}<br>
+  {{- end }}
+{{ end }}
