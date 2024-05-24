@@ -16,9 +16,9 @@ title = "danlopez.fyi"
     weight = 30
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog"
+    identifier = "writing"
+    name = "Writing"
+    url = "/writing"
     weight = 31
 
   [[menu.main]]
