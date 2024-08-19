@@ -11,7 +11,7 @@ With over 15 years in the tech industry, I’ve had the opportunity to work acro
 
 ## My Work
 
-### Login.gov - Director of Engineering
+### Login.gov - Director
 
 As the Director of Login.gov, the US government's digital identity and single sign on platform, I led an amazing team of public servants dedicated to providing secure and accessible digital identity solutions for millions of users. I was hired to stabilize and scale the organization during a challenging period marked by a major inspector general report. This involved managing media relations, congressional outreach, navigating complex organizational dynamics at the same time as shipping key product enhancements and growing the team.
 
