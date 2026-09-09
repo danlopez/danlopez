@@ -13,9 +13,9 @@ With over 15 years in the tech industry, I’ve had the opportunity to work acro
 
 ### SolarAPP+ & the SolarAPP Foundation - Chief Technology Officer
 
-Today I'm the CTO of [SolarAPP+](https://www.gosolarapp.org), where I lead both engineering and product. Our mission is **reducing the soft costs of clean energy** — the permitting, inspection, and administrative friction that make rooftop solar slow and expensive. SolarAPP+, developed by the U.S. Department of Energy and NREL, turns weeks of permit review into instant, code-compliant approvals for residential solar and storage; and I was hired to build the **SolarAPP Foundation**, the independent non-profit that stewards the platform beyond its government origins.
+Today I'm the CTO of [SolarAPP+](https://www.gosolarapp.org), where I lead both engineering and product. Our mission is **reducing the soft costs of clean energy** — the permitting, inspection, and administrative friction that make distributed clean energy slow and expensive. SolarAPP+, developed by the U.S. Department of Energy and NREL, turns weeks of permit review into instant, code-compliant approvals across a growing range of clean energy technologies — solar and storage today, expanding quickly from there. I was hired to build the **SolarAPP Foundation**, the independent non-profit that stewards the platform beyond its government origins.
 
-- **Mission — reducing soft costs**: Focus the platform on cutting the non-hardware costs of clean energy — permitting, inspection coordination, administrative overhead — so going solar is faster and more affordable for homeowners and installers.
+- **Mission — reducing soft costs**: Focus the platform on cutting the non-hardware costs of clean energy — permitting, inspection coordination, administrative overhead — so adopting clean energy is faster and more affordable for homeowners, installers, and the communities they serve.
 - **Product & Engineering**: Lead engineering and product across the platform's products, staying hands-on from architecture through code.
 - **Foundation stewardship**: Hired to develop the SolarAPP Foundation as the independent non-profit steward of SolarAPP+, bringing the solar industry and building-code enforcement communities together around the platform.
 - **Team Growth**: Grow and support the team — hiring, process, and delivery.
