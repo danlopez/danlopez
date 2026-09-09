@@ -11,13 +11,25 @@ With over 15 years in the tech industry, I’ve had the opportunity to work acro
 
 ## My Work
 
+### SolarAPP+ & the SolarAPP Foundation - Chief Technology Officer
+
+Today I'm the CTO of [SolarAPP+](https://www.gosolarapp.org), where I lead both engineering and product. Our mission is **reducing the soft costs of clean energy** — the permitting, inspection, and administrative friction that make distributed clean energy slow and expensive. SolarAPP+, developed by the U.S. Department of Energy and NREL, turns weeks of permit review into instant, code-compliant approvals across a growing range of clean energy technologies — solar and storage today, expanding quickly from there. I was hired to build the **SolarAPP Foundation**, the independent non-profit that stewards the platform beyond its government origins.
+
+- **Mission — reducing soft costs**: Focus the platform on cutting the non-hardware costs of clean energy — permitting, inspection coordination, administrative overhead — so adopting clean energy is faster and more affordable for homeowners, installers, and the communities they serve.
+- **Product & Engineering**: Lead engineering and product across the platform's products, staying hands-on from architecture through code.
+- **Foundation stewardship**: Hired to develop the SolarAPP Foundation as the independent non-profit steward of SolarAPP+, bringing the solar industry and building-code enforcement communities together around the platform.
+- **Team Growth**: Grow and support the team — hiring, process, and delivery.
+- **Responsible AI**: Apply AI across product and operations domains with the responsible-AI and accessibility lens from my government work.
+- **Strategy & Finance**: Partner with the CEO on strategy and financial planning.
+
 ### Login.gov - Director
 
-As the Director of Login.gov, the US government's digital identity and single sign on platform, I led an amazing team of public servants dedicated to providing secure and accessible digital identity solutions for millions of users. I was hired to stabilize and scale the organization during a challenging period marked by a major inspector general report. This involved managing media relations, congressional outreach, navigating complex organizational dynamics at the same time as shipping key product enhancements and growing the team.
+As the Director of [Login.gov](https://login.gov/), the US government's digital identity and single sign on platform, I led an amazing team of public servants dedicated to providing secure and accessible digital identity solutions for millions of users. I was hired to stabilize and scale the organization during a challenging period marked by a major inspector general report, and my focus was twofold: **stabilizing and growing the team** and **obtaining IAL2** — Login.gov's first identity assurance level for *verified* identities.
 
-- **Product Improvements**: Launched in-person proofing services at over 18,000 USPS locations and established a 24/7 call center, significantly enhancing user support and service delivery.
-- **Responsible AI**: Oversaw the implementation of facial recognition technology with a strong emphasis on ethical considerations and responsible AI practices. 
-- **Fraud Mitigation**: Create a dedicated fraud team and enhanced the product with key features to detect and mitigate fraudulent activities, safeguard user identities, and improve system integrity.
+- **Team Stabilization & Growth**: Rebuilt stability and trust after the IG report while growing the team — managing media relations, congressional outreach, and complex organizational dynamics at the same time as shipping key product enhancements.
+- **IAL2**: Led Login.gov's path to IAL2 (Identity Assurance Level 2, NIST SP 800-63) — its first assurance level for verified identities — standing up in-person identity proofing at over 18,000 USPS locations, a 24/7 support call center, and the remote identity-proofing infrastructure behind facial recognition.
+- **Responsible AI**: Oversaw the implementation of facial recognition technology with a strong emphasis on ethical considerations and responsible AI practices.
+- **Fraud Mitigation**: Created a dedicated fraud team and enhanced the product with key features to detect and mitigate fraudulent activities, safeguard user identities, and improve system integrity.
 - **Stakeholder Management**: Regularly briefed stakeholders at the White House, congressional committees, and agency leadership, ensuring alignment and support for Login.gov’s initiatives.
 - **Technical Policy Guidance**: Provided technical policy guidance to ensure compliance with evolving regulations and standards, contributing to policies that balance innovation with user privacy and security.
 
