@@ -63,4 +63,4 @@ I believe in the power of technology to drive positive change. Whether it’s im
 
 ## Let's Connect
 
-I’m always interested in discussing new opportunities, sharing insights, and collaborating on meaningful projects. Feel free to [contact me](mailto:hi@danlopez.fyi) or connect with me on [LinkedIn](https://www.linkedin.com/in/danlopez).
+I’m always interested in discussing new opportunities, sharing insights, and collaborating on meaningful projects. Feel free to [contact me](mailto:hi@danlopez.fyi) or connect with me on [LinkedIn](https://www.linkedin.com/in/danlopez1).
