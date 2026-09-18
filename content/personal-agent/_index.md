@@ -1,6 +1,13 @@
 ---
 title: "Personal Agent"
 description: "A private, self-hosted assistant operated by the owner of this site"
+# Reachable by direct URL only: no menu or in-page links point here, the page is kept
+# out of the sitemap, and search engines are asked not to index it.
+sitemap:
+  disable: true
+_build:
+  list: never
+noindex: true
 ---
 
 **Personal Agent** is a private, self-hosted software assistant. It is operated by the owner of this site, on their own equipment, for their own use. It is not a public product: it has no accounts, no sign-up, and no other users.

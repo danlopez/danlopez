@@ -1,6 +1,13 @@
 ---
 title: "Privacy Policy — Personal Agent"
 description: "How the Personal Agent handles data received from Google APIs"
+# Reachable by direct URL only: no menu or in-page links point here, the page is kept
+# out of the sitemap, and search engines are asked not to index it.
+sitemap:
+  disable: true
+_build:
+  list: never
+noindex: true
 ---
 
 *Last updated: 17 September 2026*
