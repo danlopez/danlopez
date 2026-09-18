@@ -4,6 +4,7 @@
     <link rel="icon" href="/images/favicon.png" />
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <meta name="description" content="{{ .Description }}" />
+    {{ if .Params.noindex }}<meta name="robots" content="noindex, nofollow">{{ end }}
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
     {{ end -}}
